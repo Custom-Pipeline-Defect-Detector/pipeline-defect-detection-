@@ -1,0 +1,14 @@
+uri:005422.img
+ruptureArea:67.01170547961483
+Arclength:584.4909866833071
+gradePL:3
+scorePL:5.0
+E:3
+K:6
+T:8
+smax:5.0
+s:5.0
+f:5.0
+ri:5.45
+damage_status_description:等级Ⅲ，管段缺陷严重，结构状况受到影响
+repair_advice:等级Ⅲ，结构在短期内可能会发生破坏，应尽快修复

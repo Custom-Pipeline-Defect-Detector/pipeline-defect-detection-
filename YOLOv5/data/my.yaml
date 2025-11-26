@@ -1,0 +1,8 @@
+
+train: mydata/train.txt
+val: mydata/val.txt
+test: mydata/test.txt
+
+# Classes
+nc: 6  # number of classes
+names: ["PL", "BX", "TJ", "CK","ZAW","CJ"]

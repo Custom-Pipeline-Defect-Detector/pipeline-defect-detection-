@@ -1,0 +1,40 @@
+class,x,y,w,h,confidence,image,damage_description,repair_advice
+5,352.48091,328.868351,664.846315,311.733696,720.0,000420.jpg,Pipeline surface irregularity,Further inspection required
+1,368.862362,222.207893,581.382236,327.225517,720.0,000711.jpg,Pipeline surface irregularity,Further inspection required
+5,365.407891,399.956417,630.136814,332.102589,720.0,000711.jpg,Pipeline surface irregularity,Further inspection required
+5,377.853942,332.777115,308.652413,312.890419,720.0,001126.jpg,Pipeline surface irregularity,Further inspection required
+5,472.164488,408.080045,651.246337,284.015262,816.0,001240.jpg,Pipeline surface irregularity,Further inspection required
+1,366.901603,377.164764,535.904074,387.427917,720.0,001800.jpg,Pipeline surface irregularity,Further inspection required
+1,416.947718,328.805214,295.53508,208.241764,720.0,002269.jpg,Pipeline surface irregularity,Further inspection required
+0,437.541375,220.576166,208.269968,178.720539,720.0,005422.jpg,Pipeline surface irregularity,Further inspection required
+2,405.069051,292.68148,163.240571,134.340803,720.0,005422.jpg,Pipeline surface irregularity,Further inspection required
+0,275.32382,200.150883,143.923666,78.965392,720.0,005427.jpg,Pipeline surface irregularity,Further inspection required
+0,382.010465,237.809183,205.706205,60.277116,720.0,005427.jpg,Pipeline surface irregularity,Further inspection required
+0,346.750681,179.294712,190.538785,83.883945,720.0,005562.jpg,Pipeline surface irregularity,Further inspection required
+0,202.851391,237.755196,94.667763,161.80101,720.0,005562.jpg,Pipeline surface irregularity,Further inspection required
+2,244.692113,309.992912,252.415845,234.268101,720.0,005568.jpg,Pipeline surface irregularity,Further inspection required
+0,269.91869,185.178294,103.179767,73.326096,480.0,005573.jpg,Pipeline surface irregularity,Further inspection required
+0,276.853842,76.46239,196.245855,73.190912,511.0,005585.jpg,Pipeline surface irregularity,Further inspection required
+0,272.57876,72.329761,221.990914,75.104564,511.0,005585_0.jpg,Pipeline surface irregularity,Further inspection required
+2,230.185547,116.838201,437.588196,153.212311,720.0,005595.jpg,Pipeline surface irregularity,Further inspection required
+000001.jpg,BX,Deformation,287.583,137.427,135.397,83.911,720,576,0.8913,Unknown,,,,,,,
+000420.jpg,CJ,Deposition,352.481,328.868,664.846,311.734,720,576,0.9587,Unknown,,,,,,,
+000711.jpg,ZAW,Obstacle,368.862,222.208,581.382,327.226,720,576,0.9574,Unknown,,,,,,,
+000711.jpg,CJ,Deposition,365.408,399.956,630.137,332.103,720,576,0.9426,Unknown,,,,,,,
+001126.jpg,CJ,Deposition,377.854,332.777,308.652,312.890,720,576,0.9536,Unknown,,,,,,,
+001240.jpg,CJ,Deposition,472.164,408.080,651.246,284.015,816,653,0.9541,Unknown,,,,,,,
+001800.jpg,ZAW,Obstacle,366.902,377.165,535.904,387.428,720,576,0.9549,Unknown,,,,,,,
+002269.jpg,ZAW,Obstacle,416.948,328.805,295.535,208.242,720,576,0.9543,Unknown,,,,,,,
+005422.jpg,BX,Deformation,437.541,220.576,208.270,178.721,720,576,0.9269,Unknown,,,,,,,
+005427.jpg,BX,Deformation,275.324,200.151,143.924,78.965,720,576,0.9133,Unknown,,,,,,,
+005427.jpg,BX,Deformation,382.010,237.809,205.706,60.277,720,576,0.8975,Unknown,,,,,,,
+000001.jpg,BX,Deformation,287.583,137.427,135.397,83.911,720,576,0.8913,Unknown,,,,,,,
+000001.jpg,BX,Deformation,287.583,137.427,135.397,83.911,720,576,0.8913,Unknown,,,,,,,
+000001.jpg,BX,Deformation,287.583,137.427,135.397,83.911,720,576,0.8913,Unknown,,,,,,,
+000001.jpg,BX,Deformation,287.583,137.427,135.397,83.911,720,576,0.8913,Unknown,,,,,,,
+000001.jpg,BX,Deformation,287.583,137.427,135.397,83.911,720,576,0.8913,Unknown,,,,,,,
+000001.jpg,BX,Deformation,287.583,137.427,135.397,83.911,720,576,0.8913,Unknown,,,,,,,
+000001.jpg,BX,Deformation,287.583,137.427,135.397,83.911,720,576,0.8913,Unknown,,,,,,,
+000001.jpg,BX,Deformation,287.583,137.427,135.397,83.911,720,576,0.8913,Unknown,,,,,,,
+000420.jpg,CJ,Deposition,352.481,328.868,664.846,311.734,720,576,0.9587,Unknown,,,,,,,
+000420.jpg,CJ,Deposition,352.481,328.868,664.846,311.734,720,576,0.9587,Unknown,,,,,,,
